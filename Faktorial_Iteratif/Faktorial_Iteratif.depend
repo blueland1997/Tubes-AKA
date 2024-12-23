@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734962165 source:d:\code\c++\faktorial_iteratif\main.cpp
+	<iostream>
+	<vector>
+

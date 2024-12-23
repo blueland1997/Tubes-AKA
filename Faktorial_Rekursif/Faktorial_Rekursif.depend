@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734969077 source:d:\code\c++\faktorial_rekursif\main.cpp
+	<iostream>
+	<vector>
+
