@@ -1,2 +1,2 @@
-# Tubes-AKA
-Perbandingan Efisiensi Algoritma Iteratif dan Rekursif dalam Menyelesaikan Permasalahan Faktorial
+NAMA AGGOYA
+1. MUHAMMAD FAIZ ARSYAH HUTABARAT
